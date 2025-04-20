@@ -1,2 +1,2 @@
-Coding in C/C++
-Using XCode and Sublime Text
+Coding in C++
+Using XCode and Sublime Text as my text editor
